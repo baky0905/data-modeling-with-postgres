@@ -99,4 +99,4 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 
 
 
-![img](https://raw.githubusercontent.com/baky0905/data-modeling-with-postgres/master/imgs/database_schema_diagram.png)
+![img](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/February/5c6c15e9_log-data/log-data.png)
