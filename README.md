@@ -28,7 +28,7 @@ It was optimized for queries on song play analysis.
 
 See below the tables fact and dimension tables.
 
-![](C:\Users\Bruker\Nanodegrees\DEND\DataModelling\_1stProject_postgres\2ndsubmission\database_schema_diagram.png)
+![](https://raw.githubusercontent.com/baky0905/data-modeling-with-postgres/master/imgs/database_schema_diagram.png)
 
 
 
